@@ -1,7 +1,7 @@
 baseurl: /
 languageCode: en-us
 title: A Hugo website
-theme: PCloud-DoIt
+theme: "DoIt"
 googleAnalytics: ''
 disqusShortname: ''
 ignoreFiles:
@@ -17,13 +17,13 @@ menu:
     - name: About
       url: /about/
     - name: GitHub
-      url: https://github.com/rstudio/blogdown
-    - name: Twitter
-      url: https://twitter.com/rstudio
+      url: https://github.com/Francisco-madrid-gambin
+    - name: Linkedin
+      url: https://www.linkedin.com/in/francisco-m-74489010a/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
-  description: A website built through Hugo and blogdown.
+  description: Bla bla bla bla 3.
   favicon: favicon.ico
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
   highlightjsLang:
