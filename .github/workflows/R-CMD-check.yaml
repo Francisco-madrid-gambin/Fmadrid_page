@@ -17,8 +17,8 @@ jobs:
                   -e 'remotes::install_deps(dependencies = TRUE)' \
                   -e 'remotes::install_github("jimhester/pkgdown@github-actions-deploy")'
 
-      - name: Pkgdown website
-        if: success () && github.ref == 'refs/heads/master'
-        run: |
-          Rscript -e "remotes::install_local('.')"
-          Rscript -e "pkgdown:::deploy_local(new_process = FALSE, remote_url = 'https://x-access-token:${{secrets.DEPLOY_PAT}}@github.com/${{github.repository}}.git')"
+      # - name: Pkgdown website
+      #   if: success () && github.ref == 'refs/heads/master'
+      #   run: |
+      #     Rscript -e "remotes::install_local('.')"
+      #     Rscript -e "pkgdown:::deploy_local(new_process = FALSE, remote_url = 'https://x-access-token:${{secrets.DEPLOY_PAT}}@github.com/${{github.repository}}.git')"

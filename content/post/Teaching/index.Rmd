@@ -1,25 +1,22 @@
 ---
-title: "Hello R Markdown"
+title: "Teaching"
 author: 
 date: 
 categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+tags: ["R Markdown"]
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# R Markdown
+# 2023
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+ <https://www.il3.ub.edu/curso-ciencia-datos-data-science-aplicaciones-biologia-medicina-python-r>.
 
 You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
+```{r}
 ```
 
 # Including Plots
