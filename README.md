@@ -1,7 +1,7 @@
 # Fmadrid <img src='static/images/logo.png' align="right" height="139" />
 
 [![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=Linkedin&color=darkblue)](https://www.linkedin.com/in/francisco-m-74489010a/)
-[![Netlify](https://img.shields.io/static/v1?label=Netlify&message=Netlify&color=darkblue)](https://franciscomadrid.netlify.app/)
+[![Netlify](https://img.shields.io/static/v1?label=Netlify&message=Netlify&color=yellow)](https://franciscomadrid.netlify.app/)
 [![Bioc Status](https://bioconductor.org/shields/build/devel/bioc/AlpsNMR.svg)](https://bioconductor.org/checkResults/devel/bioc-LATEST/AlpsNMR/)
 [![Documentation](https://img.shields.io/badge/documentation-pkgdown-informational)](https://sipss.github.io/AlpsNMR/)
 [![Publications](https://img.shields.io/static/v1?label=Scholar&message=Publications&color=<COLOR>)](https://scholar.google.es/citations?user=O6jL4bcAAAAJ&hl=es)
