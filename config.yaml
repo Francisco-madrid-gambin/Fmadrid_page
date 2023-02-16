@@ -5,7 +5,7 @@ theme: "hugo-lithium"
 googleAnalytics: ''
 disqusShortname: ''
 ignoreFiles:
-  - \.Rmd$
+  # - \.Rmd$
   - \.Rmarkdown$
   - _cache$
   - \.knit\.md$
