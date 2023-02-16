@@ -6,9 +6,11 @@
 [![Documentation](https://img.shields.io/badge/documentation-pkgdown-informational)](https://sipss.github.io/AlpsNMR/)
 [![Publications](https://img.shields.io/static/v1?label=Scholar&message=Publications&color=<COLOR>)](https://scholar.google.es/citations?user=O6jL4bcAAAAJ&hl=es)
 
-`Blabla` is an R package that can load Bruker and JDX samples as well as
-preprocess them.
+Hello world.
 
+I hold a Ph.D. in Health Science for biomarkers discovery using untargeted metabolomics techniques, developing different types of work, data mining, lab SOPs, and human intervention studies at the University of Barcelona (2017, Spain). I also made a postdoctoral stay at the Royal College of Surgeons in Ireland (Dublin, Ireland) for a year, investigating the risk of psychosis utilizing omics integration in R studio, in the department of psychiatry at Beaumont Hospital (Dublin, Ireland), and in the nutritional biomarker field in the UCD. This allowed me to take several high-impact factor publications. After coming back to Spain, I worked for more than 2 years at the [Institute for BioEngineering of Catalonia](https://ibecbarcelona.eu/) for a computational project with [Nestlé Institute Health Science](https://www.nestlehealthscience.com/), developing signal processing and machine learning solutions (R packages in [GitHub](https://github.com/sipss) and [Bioconductor](https://www.bioconductor.org/packages/release/bioc/html/AlpsNMR.html)) for metabolomics and proteomics studies.
+
+My current work is involved in the application of biostatistics and machine learning techniques on multiomics in the clinical world for the discovery of biomarkers of exposure, disease, phenotyping, and epidemiology. Assistant professor of statistical learning/biostats at the UPF, UB and IL3.
 
 
 ## Alternative installation
@@ -18,22 +20,6 @@ Rtools and note that it uses packages from
 CRAN, from BioConductor and from git repositories:
 
 If you already have Rtools, follow this to install AlspNMR:
-
-```r
-if (!"BiocManager" %in% rownames(installed.packages()))  
-    install.packages("BiocManager")  
-BiocManager::install(c("MassSpecWavelet", "impute"), update = FALSE)  
-if (!"devtools" %in% rownames(installed.packages()))  
-    install.packages("devtools")  
-devtools::install_github("sipss/AlpsNMR")
-```
-
-If you need install Rtools:
-Follow steps of Rtools website [[Rtools web](https://cran.r-project.org/bin/windows/Rtools/)]
-
-Don't forget the additional step, Putting Rtools on the PATH.
-
-Install AlpsNMR:
 
 ```r
 if (!"BiocManager" %in% rownames(installed.packages()))  
