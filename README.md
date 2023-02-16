@@ -1,6 +1,6 @@
 # Fmadrid <img src='static/images/logo.png' align="right" height="139" />
 
-[![Build Status](https://github.com/sipss/AlpsNMR/workflows/R-CMD-check/badge.svg?branch=master)](https://github.com/sipss/AlpsNMR/actions/)
+[![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=Linkedin&color=darkblue)](https://www.linkedin.com/in/francisco-m-74489010a/)
 [![codecov.io](https://codecov.io/github/sipss/AlpsNMR/coverage.svg?branch=master)](https://codecov.io/github/sipss/AlpsNMR)
 [![Bioc Status](https://bioconductor.org/shields/build/devel/bioc/AlpsNMR.svg)](https://bioconductor.org/checkResults/devel/bioc-LATEST/AlpsNMR/)
 [![Documentation](https://img.shields.io/badge/documentation-pkgdown-informational)](https://sipss.github.io/AlpsNMR/)
