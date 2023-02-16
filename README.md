@@ -4,7 +4,7 @@
 [![codecov.io](https://codecov.io/github/sipss/AlpsNMR/coverage.svg?branch=master)](https://codecov.io/github/sipss/AlpsNMR)
 [![Bioc Status](https://bioconductor.org/shields/build/devel/bioc/AlpsNMR.svg)](https://bioconductor.org/checkResults/devel/bioc-LATEST/AlpsNMR/)
 [![Documentation](https://img.shields.io/badge/documentation-pkgdown-informational)](https://sipss.github.io/AlpsNMR/)
-[![Publications](https://img.shields.io/badge/Bioinformatics-Accepted-success)](https://scholar.google.es/citations?user=O6jL4bcAAAAJ&hl=es)
+[![Publications](https://img.shields.io/static/v1?label=<Scholar>&color=<9cf>)](https://scholar.google.es/citations?user=O6jL4bcAAAAJ&hl=es)
 
 `Blabla` is an R package that can load Bruker and JDX samples as well as
 preprocess them.
