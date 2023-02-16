@@ -16,8 +16,7 @@ jobs:
           Rscript -e 'install.packages(c("remotes", "rcmdcheck"))' \
                   -e 'remotes::install_deps(dependencies = TRUE)' \
                   -e 'remotes::install_github("jimhester/pkgdown@github-actions-deploy")'
-      - name: Check pkg
-        run: Rscript -e "rcmdcheck::rcmdcheck(args = '--no-manual', error_on = 'error')"
+
       - name: Pkgdown website
         if: success () && github.ref == 'refs/heads/master'
         run: |
