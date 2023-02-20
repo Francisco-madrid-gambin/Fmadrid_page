@@ -13,9 +13,9 @@ I hold a Ph.D. in Health Science for biomarkers discovery using untargeted metab
 My current work is involved in the application of biostatistics and machine learning techniques on multiomics in the clinical world for the discovery of biomarkers of exposure, disease, phenotyping, and epidemiology. Assistant professor of statistical learning/biostats at the UPF, UB and IL3.
 
 
-## Alternative installation
+## About AplsNMR package
 
-AlpsNMR can be installed with the `devtools` package. For this is needed
+`AlpsNMR` can be installed with the `devtools` package. For this is needed
 Rtools and note that it uses packages from
 CRAN, from BioConductor and from git repositories:
 
