@@ -3,7 +3,7 @@ date: "`r Sys.Date()`"
 title: About me
 ---
 
-# Biostatistician / computational biologist
+# - Biostatistician / computational biologist
 01/11/2022 – present
 
 ## PRBB - Barcelona Biomedical Research Park, Barcelona <img src='static/images/slide1.png' align="right" height="139" />
@@ -13,7 +13,7 @@ PRBB is a large scientific infrastructure, located next to the Hospital del Mar 
 
 
 
-# Postdoctoral researcher
+# - Postdoctoral researcher
 **Juan de la Cierva Program**
 01/04/2020 - 30/09/2022
 
@@ -24,7 +24,7 @@ The Hospital del Mar Institute for Medical Research (IMIM), a Spanish public org
 https://www.imim.es/en_index.html
 
 
-# Associate Researcher
+# - Associate Researcher
 01/10/2018 - 31/03/2020
 
 ## Institute for Bioengineering of Catalonia (IBEC)
@@ -34,7 +34,7 @@ The Institute for Bioengineering of Catalonia (IBEC) is an institution engaged i
 https://ibecbarcelona.eu/
 
 
-# Postdoctoral Researcher
+# - Postdoctoral Researcher
 01/10/2017 - 31/09/2018
 
 ## Royal College of Surgeon in Ireland
