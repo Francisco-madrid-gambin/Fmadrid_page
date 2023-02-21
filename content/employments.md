@@ -1,6 +1,6 @@
 ---
+title: "About me"
 date: "`r Sys.Date()`"
-title: About me
 ---
 
 # - Biostatistician / computational biologist
