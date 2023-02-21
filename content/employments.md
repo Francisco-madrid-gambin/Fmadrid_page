@@ -6,7 +6,7 @@ title: About me
 # - Biostatistician / computational biologist
 01/11/2022 – present
 
-## PRBB - Barcelona Biomedical Research Park, Barcelona <img src='static/images/Slide1.png' align="right" height="139" />
+## PRBB - Barcelona Biomedical Research Park, Barcelona <img src='static/images/Slide1.PNG' align="right" height="139" />
 
 
 PRBB is a large scientific infrastructure, located next to the Hospital del Mar in Barcelona (Spain), which brings together six closely coordinated public research centres. Each centre is independent and the PRBB Consortium is responsible for managing the building and services, as well as coordinating the scientific activity common to all centres.
