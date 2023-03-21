@@ -1,14 +1,12 @@
 ---
 title: "Teaching"
 author: 
-date: "`r Sys.Date()`"
+date: "2023-03-21"
 categories: ["R"]
 tags: ["R Markdown"]
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-```
+
 
 # 2023
 
@@ -18,7 +16,5 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 You can embed an R code chunk like this:
 
-```{r}
-"C:\Users\Biosignal\Documents\IMIM\Fmadrid_page\content\post\Teaching/index.Rmd"
-```
 
+'C:\Users\Biosignal\Documents\IMIM\Fmadrid_page\content\post\Teaching'
