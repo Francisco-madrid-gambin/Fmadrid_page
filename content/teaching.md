@@ -1,6 +1,6 @@
 ---
 date: "`r Sys.Date()`"
-title: About me
+title: "Teaching"
 ---
 
 # 2023
