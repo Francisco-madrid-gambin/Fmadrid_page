@@ -19,7 +19,9 @@ menu:
     - name: Teaching
       url: /teaching/   
     - name: Employments
-      url: /employments/   
+      url: /employments/  
+    - name: /Portfolio
+      url: /portfolio/ 
     - name: GitHub
       url: https://github.com/Francisco-madrid-gambin
     - name: Linkedin
