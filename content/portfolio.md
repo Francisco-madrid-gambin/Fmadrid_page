@@ -12,7 +12,7 @@ date: "`r Sys.Date()`"
 
 PRBB is a large scientific infrastructure, located next to the Hospital del Mar in Barcelona (Spain), which brings together six closely coordinated public research centres. Each centre is independent and the PRBB Consortium is responsible for managing the building and services, as well as coordinating the scientific activity common to all centres.
 
-<img src='/static/images/Planet_plot.png' />
+<img src="/static/images/Planet_plot.png" align="right" height="139" />
 
 
 
