@@ -4,8 +4,10 @@ date: "`r Sys.Date()`"
 ---
 
 # Odds ratios clock plot
-
 Using odds ratios (ORs), we can measure how strongly an event is associated with exposure. Probability ratios are comparing two sets of odds: the odds of an exposed group experiencing the event versus the odds of a non-exposed group experiencing the event. In case-control studies, odds ratios are commonly reported. The odds ratio helps identify how likely exposure is to lead to a specific event. The larger the odds ratio, the higher odds that the event will occur with exposure. Odds ratios smaller than one imply the event has fewer odds of happening with the exposure.<img src="/images/Odds_ratio_clock.png" align="right" />
+
+# Kaplan-Meier survival analysis
+The Kaplan-Meier estimate is the simplest way of computing the survival over time in spite of all these difficulties associated with subjects or situations. For each time interval, survival probability is calculated as the number of subjects surviving divided by the number of patients at risk.<img src="/images/kp.png" align="right" />
 
 # Factor analysis with MOFA
 Multi-Omics Factor Analysis
