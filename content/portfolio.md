@@ -7,7 +7,7 @@ date: "`r Sys.Date()`"
 Using odds ratios (ORs), we can measure how strongly an event is associated with exposure. Probability ratios are comparing two sets of odds: the odds of an exposed group experiencing the event versus the odds of a non-exposed group experiencing the event. In case-control studies, odds ratios are commonly reported. The odds ratio helps identify how likely exposure is to lead to a specific event. The larger the odds ratio, the higher odds that the event will occur with exposure. Odds ratios smaller than one imply the event has fewer odds of happening with the exposure.<img src="/images/Odds_ratio_clock.png" align="right" />
 
 # Kinetics
-Predictive modeling of AA plasma/urine differences between food was carried out by generalized mixed linear regression and partial least-squares (PLS) regression of AUC0–6 h data in a pairwise multilevel design to take into consideration the crossover design, with each individual being its own control.<img src="/images/legumes.jpeg" />
+Kinetics modeling of plasma pyruvate after a drug/placebo treatment. By utilizing a generalized mixed linear regression with an autoregresive term, we can assess differences between treatments within the first hour.<img src="/images/Pyruvate.png" />
 
 # Kaplan-Meier survival analysis
 The Kaplan-Meier estimate is the simplest way of computing the survival over time in spite of all these difficulties associated with subjects or situations. For each time interval, survival probability is calculated as the number of subjects surviving divided by the number of patients at risk.
