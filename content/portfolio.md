@@ -3,6 +3,10 @@ title: "Portfolio"
 date: "`r Sys.Date()`"
 ---
 
+# Odds ratios clock plot
+
+Using odds ratios (ORs), we can measure how strongly an event is associated with exposure. Probability ratios are comparing two sets of odds: the odds of an exposed group experiencing the event versus the odds of a non-exposed group experiencing the event. In case-control studies, odds ratios are commonly reported. The odds ratio helps identify how likely exposure is to lead to a specific event. The larger the odds ratio, the higher odds that the event will occur with exposure. Odds ratios smaller than one imply the event has fewer odds of happening with the exposure.<img src="/images/Odds_ratio_clock.png" align="right" />
+
 # Factor analysis with MOFA
 Multi-Omics Factor Analysis
 MOFA is a probabilistic factor model that aims to identify principal axes of variation from data sets that can comprise multiple datasets layers and/or groups of samples. Additional time or space information on the samples can be incorporated using the MEFISTO framework.<img src="/images/Planet_plot_blur.png" align="right" />
