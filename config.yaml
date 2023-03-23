@@ -26,6 +26,8 @@ menu:
       url: https://github.com/Francisco-madrid-gambin
     - name: Linkedin
       url: https://www.linkedin.com/in/francisco-m-74489010a/
+    - name: Modeling
+      url: https://metabolomeconnectome.netlify.app/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
