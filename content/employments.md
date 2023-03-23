@@ -32,7 +32,7 @@ https://www.imim.es/en_index.html
 
 ### Institute for Bioengineering of Catalonia (IBEC)
 
-<div style="text-align: justify"> The Institute for Bioengineering of Catalonia (IBEC) is an institution engaged in basic and applied research in bioengineering and nanomedicine, with experts working on tissue regeneration, biomechanics, molecular dynamics, biomimetics, drug delivery, organs ‘on-a-chip’, cell migration, stem cells, artificial olfaction and microbial biotechnology. The institute was created by the Government of Catalonia, the University of Barcelona and the Polytechnic University of Catalonia in December 2005 and is located at the Barcelona Science Park (Parc Científic de Barcelona – PCB).</div>
+<div style="text-align: justify"> The Institute for Bioengineering of Catalonia (IBEC) is an institution engaged in basic and applied research in bioengineering and nanomedicine, with experts working on tissue regeneration, biomechanics, molecular dynamics, biomimetics, drug delivery, organs ‘on-a-chip’, cell migration, stem cells, artificial olfaction and microbial biotechnology. The institute was created by the Government of Catalonia, the University of Barcelona and the Polytechnic University of Catalonia in December 2005 and is located at the Barcelona Science Park.</div>
 
 https://ibecbarcelona.eu/
 
