@@ -16,7 +16,7 @@ https://www.prbb.org/?l=en
 
 # - Postdoctoral researcher
 **Juan de la Cierva Program**
-01/04/2020 - 30/09/2022<img src='/images/Slide2.png' align="right" height="130" />
+01/04/2020 - 30/09/2022<img src='/images/Slide2.png' align="right" height="130" style = "position:relative; left:10px; top:-60px;"/>
 
 ### IMIM - Hospital del Mar Medical Research Institute 
 
@@ -26,17 +26,20 @@ https://www.imim.es/en_index.html
 
 
 # - Associate Researcher
-01/10/2018 - 31/03/2020<img src='/images/Slide3.png' align="right" height="up" />
+<img src='/images/Slide3.png' align="right" style = "position:relative; left:0px; top:-80px;"/>
+
+01/10/2018 - 31/03/2020
 
 ### Institute for Bioengineering of Catalonia (IBEC)
 
-<div style="text-align: justify">The Institute for Bioengineering of Catalonia (IBEC) is an institution engaged in basic and applied research in bioengineering and nanomedicine, with experts working on tissue regeneration, biomechanics, molecular dynamics, biomimetics, drug delivery, organs ‘on-a-chip’, cell migration, stem cells, artificial olfaction and microbial biotechnology. The institute was created by the Government of Catalonia, the University of Barcelona and the Polytechnic University of Catalonia in December 2005 and is located at the Barcelona Science Park (Parc Científic de Barcelona – PCB).</div>
+<div style="text-align: justify"> The Institute for Bioengineering of Catalonia (IBEC) is an institution engaged in basic and applied research in bioengineering and nanomedicine, with experts working on tissue regeneration, biomechanics, molecular dynamics, biomimetics, drug delivery, organs ‘on-a-chip’, cell migration, stem cells, artificial olfaction and microbial biotechnology. The institute was created by the Government of Catalonia, the University of Barcelona and the Polytechnic University of Catalonia in December 2005 and is located at the Barcelona Science Park (Parc Científic de Barcelona – PCB).</div>
 
 https://ibecbarcelona.eu/
 
 
 # - Postdoctoral Researcher
-01/10/2017 - 31/09/2018<img src='/images/Slide4.png' align="right" />
+<img src='/images/Slide4.png' align="right" style = "position:relative; left:0px; top:-80px;"/>
+01/10/2017 - 31/09/2018 
 
 ### Royal College of Surgeon in Ireland 
 
