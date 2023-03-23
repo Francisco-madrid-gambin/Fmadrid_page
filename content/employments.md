@@ -28,7 +28,7 @@ https://www.imim.es/en_index.html
 
 
 # - Data scientist
-<img src='/images/Slide3.png' align="right" style = "position:relative; left:0px; top:-80px;"/>
+<img src='/images/Slide3.png' align="right" style = "position:relative; left:0px; top:-100px;"/>
 
 01/10/2018 - 31/03/2020
 
