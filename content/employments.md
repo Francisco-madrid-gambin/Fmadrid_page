@@ -8,7 +8,7 @@ date: "`r Sys.Date()`"
 
 ### PRBB - Barcelona Biomedical Research Park, Barcelona 
 
-PRBB is a large scientific infrastructure, located next to the Hospital del Mar in Barcelona (Spain), which brings together six closely coordinated public research centres. Each centre is independent and the PRBB Consortium is responsible for managing the building and services, as well as coordinating the scientific activity common to all centres.
+<div style="text-align: justify">PRBB is a large scientific infrastructure, located next to the Hospital del Mar in Barcelona (Spain), which brings together six closely coordinated public research centres. Each centre is independent and the PRBB Consortium is responsible for managing the building and services, as well as coordinating the scientific activity common to all centres.</div>
 
 https://www.prbb.org/?l=en
 
@@ -20,7 +20,7 @@ https://www.prbb.org/?l=en
 
 ### IMIM - Hospital del Mar Medical Research Institute 
 
-The Hospital del Mar Institute for Medical Research (IMIM), a Spanish public organisation created in 1947 and dedicated to scientific research in the field of biomedicine and health sciences, is located in the Barcelona Biomedical Research Park. In December 2013 it became one of the health research institutes officially accredited by the Instituto de Salud Carlos III.
+<div style="text-align: justify">The Hospital del Mar Institute for Medical Research (IMIM), a Spanish public organisation created in 1947 and dedicated to scientific research in the field of biomedicine and health sciences, is located in the Barcelona Biomedical Research Park. In December 2013 it became one of the health research institutes officially accredited by the Instituto de Salud Carlos III.</div>
 
 https://www.imim.es/en_index.html
 
@@ -30,7 +30,7 @@ https://www.imim.es/en_index.html
 
 ### Institute for Bioengineering of Catalonia (IBEC)
 
-The Institute for Bioengineering of Catalonia (IBEC) is an institution engaged in basic and applied research in bioengineering and nanomedicine, with experts working on tissue regeneration, biomechanics, molecular dynamics, biomimetics, drug delivery, organs ‘on-a-chip’, cell migration, stem cells, artificial olfaction and microbial biotechnology. The institute was created by the Government of Catalonia, the University of Barcelona and the Polytechnic University of Catalonia in December 2005 and is located at the Barcelona Science Park (Parc Científic de Barcelona – PCB).
+<div style="text-align: justify">The Institute for Bioengineering of Catalonia (IBEC) is an institution engaged in basic and applied research in bioengineering and nanomedicine, with experts working on tissue regeneration, biomechanics, molecular dynamics, biomimetics, drug delivery, organs ‘on-a-chip’, cell migration, stem cells, artificial olfaction and microbial biotechnology. The institute was created by the Government of Catalonia, the University of Barcelona and the Polytechnic University of Catalonia in December 2005 and is located at the Barcelona Science Park (Parc Científic de Barcelona – PCB).</div>
 
 https://ibecbarcelona.eu/
 
@@ -40,7 +40,7 @@ https://ibecbarcelona.eu/
 
 ### Royal College of Surgeon in Ireland 
 
-The Royal College of Surgeons in Ireland (RCSI) is a medical professional and educational institution, which is also known as RCSI University of Medicine and Health Sciences, Ireland's first private university. It was established in 1784 as the national body for the surgical branch of medicine in Ireland, with a role in supervision of training, and as of 2021 provides a broad range of medical education in multiple countries.
+<div style="text-align: justify">The Royal College of Surgeons in Ireland (RCSI) is a medical professional and educational institution, which is also known as RCSI University of Medicine and Health Sciences, Ireland's first private university. It was established in 1784 as the national body for the surgical branch of medicine in Ireland, with a role in supervision of training, and as of 2021 provides a broad range of medical education in multiple countries.</div>
 
 https://www.rcsi.com/
 
