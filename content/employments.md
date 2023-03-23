@@ -44,7 +44,7 @@ https://www.bioconductor.org/packages/release/bioc/html/AlpsNMR.html
 
 
 # - Postdoctoral Researcher
-<img src='/images/Slide4.png' align="right" style = "position:relative; left:0px; top:-40px;"/>
+<img src='/images/Slide4.png' align="right" hight= "80" style = "position:relative; left:0px; top:-40px;"/>
 01/10/2017 - 31/09/2018 
 
 ### Royal College of Surgeon in Ireland 
