@@ -18,7 +18,7 @@ https://www.prbb.org/?l=en
 
 # - Postdoctoral researcher
 **Juan de la Cierva Program**
-01/04/2020 - 30/09/2022<img src='/images/Slide2.png' align="right" height="130" style = "position:relative; left:10px; top:-40px;"/>
+01/04/2020 - 30/09/2022<img src='/images/Slide2.png' align="right" height="" style = "position:relative; left:10px; top:-40px;"/>
 
 ### IMIM - Hospital del Mar Medical Research Institute 
 
