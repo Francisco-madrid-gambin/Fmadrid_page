@@ -3,245 +3,44 @@ date: "`r Sys.Date()`"
 title: "Teaching"
 ---
 
-# 2023
+# 1. Statistical Learning, University Pompeu Fabra
+## Courses 2018-2019, 2019-2020, 2021-2022, 2022-2023
+• Name of the course: Statistical Learning, Degree in Bioinformatics (3rd course)
 
-## Data Science: Applications in Biology and Medicine with Python and R.
-Assistant Professor
-IL3 - University of Barcelona
+• Type of programme: Bachelor’s degree Type of teaching: Practical work (classroom-problems)
 
-<https://www.il3.ub.edu/curso-ciencia-datos-data-science-aplicaciones-biologia-medicina-python-r>.
+• Hours/ECTS credits: 45 (15 each course) hours
 
+• Faculty, institute or centre: Escuela Superior de Comercio Internacional, Universitat Pompeu Fabra, Barcelona, Catalonia, Spain
 
-# 2022
+• Type of entity: University Centres and Structures and Associated Bodies
 
-## Statistical learning in R
-Assistant Professor
+# 2. Biotechnology and Bioinformatics, University of Barcelona
+## Course 2018-2019
+• Name of the course: Biotechnology and Bioinformatics, Degree in Biomedical Engineering (2nd course)
 
-Type of teaching: Official teaching
-Name of the course: Statistical Learning
-Type of programme: Bachelor’s degree Type of teaching: Practical work (classroom-problems)
-Type of subject: Obligatory
-University degree: Degree in Bioinformatics
-Course given: 3rd
-Start date: 20/09/2022 End date: 22/12/2022
-Type of hours/ ECTS credits: Hours
-Hours/ECTS credits: 15
-Entity: Universidad Pompeu Fabra Type of entity: University
-Faculty, institute or centre: Escuela Superior de Comercio Internacional
-City of entity: Barcelona, Catalonia, Spain
-Type of entity: University Centres and Structures and Associated Bodies
-City assessment entity: Barcelona,
-Funding entity: Escuela Superior de Comercio Internacional
-Subject language: English
+• Type of programme: Bachelor’s degree Type of teaching: Practical work (classroom-problems)
 
-# 2021
+• Hours/ECTS credits: 5 hours
 
-## Statistical learning in R
-Assistant Professor
+• Faculty, institute or centre: Department of Electronic and Biomedical Engineering, Facultat de Medicina, Universitat de Barcelona, Barcelona, Catalonia, Spain
 
-Type of teaching: Official teaching
-Name of the course: Statistical Learning
-Type of programme: Bachelor’s degree Type of teaching: Practical work (classroom-problems)
-Type of subject: Obligatory
-University degree: Degree in Bioinformatics
-Course given: 3rd
-Start date: 20/09/2021 End date: 22/12/2021
-Type of hours/ ECTS credits: Hours
-Hours/ECTS credits: 15
-Entity: Universidad Pompeu Fabra Type of entity: University
-Faculty, institute or centre: Escuela Superior de Comercio Internacional
-City of entity: Barcelona, Catalonia, Spain
-Type of entity: University Centres and Structures and Associated Bodies
-City assessment entity: Barcelona,
-Funding entity: Escuela Superior de Comercio Internacional
-Subject language: English
+# 3. Ingredients and Food Formulations, University of Barcelona 
+## Courses 2014-2015, 2015-2016
+• Name of the course: Ingredients and Food Formulations, Degree in Food Science and Technology (3rd course)
 
-# 2020
+• Type of programme: Bachelor’s degree Type of teaching: Laboratory work
 
-## Statistical learning in R
-Assistant Professor
+• Hours/ECTS credits: 60 hours
 
-Type of teaching: Official teaching
-Name of the course: Statistical Learning
-Type of programme: Bachelor’s degree Type of teaching: Practical work (classroom-problems)
-Type of subject: Obligatory
-University degree: Degree in Bioinformatics
-Course given: 3rd
-Start date: 21/09/2020 End date: 20/12/2020
-Type of hours/ ECTS credits: Hours
-Hours/ECTS credits: 15
-Entity: Universidad Pompeu Fabra Type of entity: University
-Faculty, institute or centre: Escuela Superior de Comercio Internacional
-City of entity: Barcelona, Catalonia, Spain
-Type of entity: University Centres and Structures and Associated Bodies
-City assessment entity: Barcelona,
-Funding entity: Escuela Superior de Comercio Internacional
-Subject language: English
+• Faculty, institute or centre: Department of Nutrition, Food Sciences and Gastronomy, Facultat de Farmacia, Universitat de Barcelona, Barcelona, Catalonia, Spain
 
-# 2018
+# 4. Nutrition and Bromatology, University of Barcelona 
+## Courses 2014-2015, 2015-2016, 2016-2017
+• Name of the course: Nutrition and Bromatology, Degree in Pharmacy (3rd course)
 
-## Statistical learning in R
-Assistant Professor
+• Type of programme: Bachelor’s degree Type of teaching: Laboratory work
 
-Type of teaching: Official teaching
-Name of the course: Statistical Learning
-Type of programme: Bachelor’s degree Type of teaching: Practical work (classroom-problems)
-Type of subject: Obligatory
-University degree: Degree in Bioinformatics
-Course given: 3rd
-Start date: 21/09/2018 End date: 20/12/2018
-Type of hours/ ECTS credits: Hours
-Hours/ECTS credits: 15
-Entity: Universidad Pompeu Fabra Type of entity: University
-Faculty, institute or centre: Escuela Superior de Comercio Internacional
-City of entity: Barcelona, Catalonia, Spain
-Type of entity: University Centres and Structures and Associated Bodies
-City assessment entity: Barcelona,
-Funding entity: Escuela Superior de Comercio Internacional
-Subject language: English
+• Hours/ECTS credits: 104 hours
 
-## Biotechnology and Bioinformatics
-Assistant Professor
-
-Type of teaching: Official teaching
-Name of the course: Biotechnology and Bioinformatics
-Type of programme: Bachelor’s degree Type of teaching: Practical work (classroom-problems)
-Type of subject: Obligatory
-University degree: Degree in Biomedical Engineering
-Course given: 2nd
-Start date: 11/02/2019 End date: 30/06/2019
-Type of hours/ ECTS credits: Credits
-Hours/ECTS credits: 5
-Entity: Universitat de Barcelona
-Faculty, institute or centre: Facultad de Medicina
-Department: Department of Electronic and Biomedical Engineering
-City of entity: Barcelona, Catalonia, Spain
-Type of entity: University
-Funding entity: Universitat de Barcelona
-Subject language: Spanish
-
-## Intelligent Instrumentation for Chemicals
-Assistant Professor
-
-Type of teaching: Official teaching
-Name of the course: Intelligent Instrumentation for Chemicals
-Type of programme: Master’s degree Type of teaching: Practical work (classroom-problems)
-University degree: Master degree in Biomedical Engineering
-Start date: 11/02/2019 End date: 30/06/2019
-Type of hours/ ECTS credits: Credits
-Hours/ECTS credits: 3
-Entity: Universitat de Barcelona Type of entity: University
-Faculty, institute or centre: Departament d'Enginyeria Electrònica i Biomèdica
-Department: Department of Electronic and Biomedical Engineering
-City of entity: Barcelona, Catalonia, Spain
-Type of entity: University
-Funding entity: Universitat de Barcelona
-
-# 2016
-
-## Ingredientes y formulación de alimentos
-Assistant Professor
-
-Type of teaching: Official teaching
-Name of the course: Ingredientes y formulación de alimentos
-Type of programme: Bachelor’s degree Type of teaching: Laboratory work
-Type of subject: Core
-University degree: Graduado o Graduada en Ciencia y Tecnología de los Alimentos
-Course given: 3rd
-Start date: 01/04/2016 End date: 30/03/2017
-Type of hours/ ECTS credits: Hours
-Hours/ECTS credits: 60
-Entity: Universitat de Barcelona Type of entity: University
-Faculty, institute or centre: Facultad de Farmacia
-Department: Departamento de Nutrición, Ciencias de la Alimentación y Gastronomía
-City of entity: Barcelona, Catalonia, Spain
-Type of entity: University
-Funding entity: Universitat de Barcelona
-
-# 2015
-
-## Ingredientes y formulación de alimentos
-Assistant Professor
-
-Type of teaching: Official teaching
-Name of the course: Ingredientes y formulación de alimentos
-Type of programme: Bachelor’s degree Type of teaching: Laboratory work
-Type of subject: Core
-University degree: Graduado o Graduada en Ciencia y Tecnología de los Alimentos
-Course given: 3rd
-Start date: 01/04/2015 End date: 30/03/2016
-Type of hours/ ECTS credits: Hours
-Hours/ECTS credits: 60
-Entity: Universitat de Barcelona Type of entity: University
-Faculty, institute or centre: Facultad de Farmacia
-Department: Departamento de Nutrición, Ciencias de la Alimentación y Gastronomía
-City of entity: Barcelona, Catalonia, Spain
-Type of entity: University
-Funding entity: Universitat de Barcelona
-
-## Nutrition and Bromatology
-Assistant Professor
-
-Type of teaching: Official teaching
-Name of the course: Nutrición y bromatología
-Type of programme: Bachelor’s degree Type of teaching: Laboratory work
-Type of subject: Core
-Assessment type: Internal assessment
-University degree: Degree in Pharmacy
-Course given: 3rd
-Start date: 01/04/2015 End date: 30/03/2016
-Type of hours/ ECTS credits: Hours
-Hours/ECTS credits: 104
-Entity: Universitat de Barcelona Type of entity: University
-Faculty, institute or centre: Facultad de Farmacia
-Department: Departamento de Nutrición, Ciencias de la Alimentación y Gastronomía
-City of entity: Barcelona, Catalonia, Spain
-Assessment entity: Universitat de Barcelona Type of entity: University
-Assessment type: Internal assessment
-Funding entity: Universitat de Barcelona Type of entity: University
-Subject language: Spanish
-
-# 2014
-
-## Ingredientes y formulación de alimentos
-Assistant Professor
-
-Type of teaching: Official teaching
-Name of the course: Ingredientes y formulación de alimentos
-Type of programme: Bachelor’s degree Type of teaching: Laboratory work
-Type of subject: Core
-University degree: Graduado o Graduada en Ciencia y Tecnología de los Alimentos
-Course given: 3rd
-Start date: 01/04/2014 End date: 30/03/2015
-Type of hours/ ECTS credits: Hours
-Hours/ECTS credits: 60
-Entity: Universitat de Barcelona Type of entity: University
-Faculty, institute or centre: Facultad de Farmacia
-Department: Departamento de Nutrición, Ciencias de la Alimentación y Gastronomía
-City of entity: Barcelona, Catalonia, Spain
-Type of entity: University
-Funding entity: Universitat de Barcelona
-
-## Nutrition and Bromatology
-Assistant Professor
-
-Type of teaching: Official teaching
-Name of the course: Nutrición y bromatología
-Type of programme: Bachelor’s degree Type of teaching: Laboratory work
-Type of subject: Core
-Assessment type: Internal assessment
-University degree: Degree in Pharmacy
-Course given: 3rd
-Start date: 01/04/2014 End date: 30/03/2015
-Type of hours/ ECTS credits: Hours
-Hours/ECTS credits: 104
-Entity: Universitat de Barcelona Type of entity: University
-Faculty, institute or centre: Facultad de Farmacia
-Department: Departamento de Nutrición, Ciencias de la Alimentación y Gastronomía
-City of entity: Barcelona, Catalonia, Spain
-Assessment entity: Universitat de Barcelona Type of entity: University
-Assessment type: Internal assessment
-Funding entity: Universitat de Barcelona Type of entity: University
-Subject language: Spanish
-
-
+• Faculty, institute or centre: Department of Nutrition, Food Sciences and Gastronomy, Facultat de Farmacia, Universitat de Barcelona, Barcelona, Catalonia, Spain
