@@ -14,7 +14,7 @@ Previous work:
 https://doi.org/10.1016/j.biopha.2022.112845
 
 
-# Odds ratios clock plot
+# Odds ratios polar plot
 <div style="text-align: justify">Using odds ratios (ORs) and <b>generalized, mixed, logistic or poison models</b>, we can measure how strongly an event is associated with exposure. Probability ratios are comparing two sets of odds: the odds of an exposed group experiencing the event versus the odds of a non-exposed group experiencing the event. In case-control studies, odds ratios are commonly reported. The odds ratio helps identify how likely exposure is to lead to a specific event. The larger the odds ratio, the higher odds that the event will occur with exposure. Odds ratios smaller than one imply the event has fewer odds of happening with the exposure.</div><img src="/images/Odds_ratio_clock.png" align="right" />
 
 
