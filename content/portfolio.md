@@ -29,7 +29,7 @@ https://doi.org/10.1016/j.biopha.2022.112845
 # Factor analysis with MOFA
 **Multi-Omics Factor Analysis**
 <br />
-<div style="text-align: justify">MOFA is a probabilistic factor model that aims to identify principal axes of variation from data sets that can comprise multiple datasets layers and/or groups of samples. Additional time or space information on the samples can be incorporated using the MEFISTO framework.</div><img src="/images/Planet_plot_blur.png" align="right" />
+<div style="text-align: justify">MOFA is a probabilistic factor model that aims to identify principal axes of variation from data sets that can comprise multiple datasets layers and/or groups of samples. The algorithm also allows for bimodal analysis. Additional time or space information on the samples can be incorporated using the MEFISTO framework.</div><img src="/images/Planet_plot_blur.png" align="right" />
 
 # Multi-block PLS: data integration
 **N-integration with Projection to Latent Structures model**
