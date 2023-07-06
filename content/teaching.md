@@ -9,7 +9,7 @@ title: "Teaching"
 
 • Type of programme: Bachelor’s degree Type of teaching: Practical work (classroom-problems)
 
-• Hours/ECTS credits: 45 (15 each course) hours
+• Hours/ECTS credits: 60 hours
 
 • Faculty, institute or centre: Escuela Superior de Comercio Internacional, Universitat Pompeu Fabra, Barcelona, Catalonia, Spain
 
