@@ -34,7 +34,7 @@ https://doi.org/10.1016/j.biopha.2022.112845
 # Multi-block PLS: data integration
 **N-integration with Projection to Latent Structures model**
 <br />
-<div style="text-align: justify">Integration of multiple data sets measured on the same observations were carried out utilizing the N-integration with Projection to Latent Structures model. This model was performed to assess multiblock correlations between sperm quality, sperm function, IVF outcomes, and metabolomic blocks from the same observational units. Pair-wise similarity matrix was obtained from the two correlated latent components obtained through the projection to latent structures method. A relevance network graph was created to describe connections between the four datasets.</div><img src="/images/multiblockPLS.png" align="right" />
+<div style="text-align: justify">Integration of multiple data sets measured on the same observations were carried out utilizing the N-multiblock integration with Projection to Latent Structures model. This model was performed to assess multiblock correlations between sperm quality, sperm function, IVF outcomes, and metabolomic blocks from the same observational units. Pair-wise similarity matrix was obtained from the two correlated latent components obtained through the projection to latent structures method. A relevance network graph was created to describe connections between the four datasets.</div><img src="/images/multiblockPLS.png" align="right" />
 
 https://www.nature.com/articles/s42003-023-04715-3
 
