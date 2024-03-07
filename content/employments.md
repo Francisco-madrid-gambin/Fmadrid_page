@@ -15,6 +15,7 @@ PRBB is a large scientific infrastructure, located next to the Hospital del Mar 
 https://www.prbb.org/?l=en
 
 **Achievements**
+
 - Co-director of a doctoral thesis granted by the **Instituto de Salud Carlos III** titled “Age-related cognitive impairment: Evaluation of metabolomic biomarkers and study of the influence of lifestyle” to investigate early biomarkers predicting impairment.
 
 - **First-prize oral communication** in the XXV Congreso Nacional de la Asociación Española de Coloproctología (Pamplona, 2022). Co-first author of a work on early biomarkers predicting postoperative complications after colorectal cancer surgery, published in the International Journal of Surgery (IF 2023: 15.3, ranking Surgery 2/212. DOI: 10.1097/js9.0000000000000965).
@@ -56,6 +57,7 @@ https://www.imim.es/en_index.html
 
 
 **Achievements**
+
 Francisco was involved in several projects as lead biostatistician. In a European project Francisco performed metabolomic and integrated network analysis, published in Biomedicine & Pharmacotherapy (IF 2022: 7.5, ranking Pharmacology and Pharmacy 23/277, 10.1016/j.biopha.2022.112845). In this international project, he also led a systematic review on metabolomics analysis in the same journal (DOI: 10.1016/j.biopha.2023.115775).
 
 **Figure.** Integrative network graph depicting correlations derived from regularized canonical correlation analysis between ayahuasca alkaloids, ayahuasca-induced subjective effects, metabolic markers and behavioural data.
@@ -88,6 +90,7 @@ The Institute for Bioengineering of Catalonia (IBEC) is an institution engaged i
 https://ibecbarcelona.eu/
 
 **Achievements**
+
 Project with Nestlé Institute of Health Sciences for the develop of computational tools. The developed tool obtained the **first-prize** in poster presentation at the international “Metabomeeting 2020” conference, Toulouse.
 
 https://www.bioconductor.org/packages/release/bioc/html/AlpsNMR.html
