@@ -13,3 +13,6 @@ After coming back to Spain, I worked for more than 2 years at the [Institute for
 Presently, I am employed as a biostatistician at the [Hospital del Mar Research Institute](https://www.imim.es/en_index.html). In this capacity, I lead a structural platform dedicated to data analysis, offering essential support to a variety of medical projects across fields such as neurosciences, COVID-19, drug exposure, cancer, epidemiology, and beyond. This position has provided me with substantial translational experience, enabling me to make direct contributions to the progress of biomedicine.
 
 My current work is involved in the application of biostatistics and machine learning techniques on multiomics in the clinical world for the discovery of biomarkers of exposure, disease, phenotyping, and epidemiology. Assistant professor of statistical learning/biostats at the UPF, UB and IL3.
+
+Download my CV [here](https://drive.google.com/file/d/125UrTfom3pWeC8-R5oqa80L3JzMCJS57/view?usp=sharing)
+
