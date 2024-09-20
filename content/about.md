@@ -14,5 +14,5 @@ Presently, I am employed as a biostatistician at the [Hospital del Mar Research 
 
 My current work is involved in the application of biostatistics and machine learning techniques on multiomics in the clinical world for the discovery of biomarkers of exposure, disease, phenotyping, and epidemiology. Assistant professor of statistical learning/biostats at the UPF, UB and IL3.
 
-Download my CV [here](https://drive.google.com/file/d/125UrTfom3pWeC8-R5oqa80L3JzMCJS57/view?usp=sharing)
+Download my CV [here](https://drive.google.com/file/d/1ts4OhzHx1jF_N1vMt-eYLYzSgRDM94ou/view?usp=sharing)
 
