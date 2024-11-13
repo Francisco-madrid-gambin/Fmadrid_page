@@ -13,6 +13,6 @@ As a consultant at the [Institute for BioEngineering of Catalonia](https://ibecb
 
 Currently, I am working as a biostatistician in the [Hospital del Mar Research Institute](https://www.imim.es/en_index.html) where I lead a structural data analysis platform and co-direct a doctoral thesis on early biomarkers of Alzheimer's disease (improving accuracy up to 80 %, patent under evaluation). My role involves providing critical support to medical research projects in fields such as neurosciences, cancer, and epidemiology, with a focus on Real-World Evidence (RWE) methodologies. This position has enabled me to make direct contributions to translational medicine and the advancement of biomedicine. My work has been recognized with several awards, including **1st prize** for poster presentation in the European-Metabomeeting (2020),  **1st prize** for oral communication in the XXV Conference Asociación Española de Coloproctología (2022) and **“Best abstract”** in the XVIII Conference European Society of Coloproctology (2023). I also serve as an assistant professor of statistical learning and biostatistics at UPF, UB, and IL3.
 
-Download my CV [here](https://drive.google.com/file/d/1CqPpOIk0roZLkzTEn2i5CFif-hRsdCl1/view?usp=sharing)
+Download my CV [here](https://drive.google.com/file/d/1mNR9LViG6HUU8rdwvlniX-I1M7z8pX6e/view?usp=sharing)
 
 See my publications [here](https://scholar.google.es/citations?hl=es&user=O6jL4bcAAAAJ&view_op=list_works&sortby=pubdate)
